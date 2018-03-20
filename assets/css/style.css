@@ -17,7 +17,7 @@ label {
 }
 
 body {
-	background-image: url ("..images/draketears.png");
+	background-image: url("../images/draketears.png");
     font-family: 'Press Start 2P', cursive;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,6 +29,8 @@ body {
 
 .jumbotron {
     text-align: center;
+    background-image: url("../images/drakemillie.png");
+    color: hotpink;
 }
 
 
